@@ -1,2 +1,2 @@
 [osp]
-workstation workstation-575d.rhpds.opentlc.com ansible_user=cloud-user ansible_ssh_private_key_file=/root/.ssh/openstack.pem
+workstation workstation-4420.rhpds.opentlc.com ansible_user=cloud-user ansible_ssh_private_key_file=/root/.ssh/openstack.pem
